@@ -206,7 +206,7 @@
   <img src="./Room.jpg">
   
   
-  <form>
+  <form action="/submit" method="post">
   <div id="Container"> <!--Container of the form-->
        
       <h2>
